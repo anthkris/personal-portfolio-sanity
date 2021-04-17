@@ -1,5 +1,5 @@
 {
-  "name": "knanthonyportfolio",
+  "name": "knanthony-portfolio-sanity",
   "private": true,
   "version": "1.0.0",
   "description": "",
@@ -15,6 +15,7 @@
   ],
   "dependencies": {
     "@sanity/base": "^2.6.0",
+    "@sanity/cli": "^2.8.0",
     "@sanity/code-input": "^2.2.6",
     "@sanity/components": "^2.2.6",
     "@sanity/core": "^2.7.4",
